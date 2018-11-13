@@ -1,0 +1,11 @@
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/bin/Debug/netcoreapp2.1/projeto_conjunto.deps.json
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/bin/Debug/netcoreapp2.1/projeto_conjunto.runtimeconfig.json
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/bin/Debug/netcoreapp2.1/projeto_conjunto.runtimeconfig.dev.json
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/bin/Debug/netcoreapp2.1/projeto_conjunto.dll
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/bin/Debug/netcoreapp2.1/projeto_conjunto.pdb
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/obj/Debug/netcoreapp2.1/projeto_conjunto.csprojAssemblyReference.cache
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/obj/Debug/netcoreapp2.1/projeto_conjunto.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/obj/Debug/netcoreapp2.1/projeto_conjunto.AssemblyInfoInputs.cache
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/obj/Debug/netcoreapp2.1/projeto_conjunto.AssemblyInfo.cs
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/obj/Debug/netcoreapp2.1/projeto_conjunto.dll
+/Users/aluno/Projects/projeto_conjunto/projeto_conjunto/obj/Debug/netcoreapp2.1/projeto_conjunto.pdb
